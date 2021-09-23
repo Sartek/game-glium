@@ -8,3 +8,4 @@ authors = ["Sartek <sartek.richards@gmail.com>"]
 
 [dependencies]
 glium = "*"
+image = "*"
